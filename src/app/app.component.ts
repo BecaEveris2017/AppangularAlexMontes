@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
   nombre = 'Alex Montes'
+  colores = ['negro', 'blanco', 'rojo','amarillo']
 }
